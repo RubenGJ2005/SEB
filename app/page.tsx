@@ -8,6 +8,10 @@ export default function Home() {
       <tr>
         <th>xd</th>
                 <th>xd</th>
+                <th>xd</th>
+                <th>xd</th>
+                <th>xd</th>
+                <th>xd</th>
         </tr>
     </thead>
 </table>
