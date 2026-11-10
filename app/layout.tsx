@@ -22,10 +22,6 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       lang="en"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
-    
-
-
-
       <body className="min-h-full flex flex-col" >
         <header className="flex items-center justify-between px-6 py-3 text-shadow-black">
           <div className="flex items-center gap-4">
@@ -48,8 +44,8 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
                   alt="logo biblioteca"
                   />
             </div>
-                  </header>
-                {children}
+          </header>
+          {children}
       </body>
     </html>
   );
