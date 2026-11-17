@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+h1{
+  color: var(--color-guinda);
+}
+
 @theme {
   --color-background: #F1F1F1;
   --color-guinda: #682444;

@@ -1,0 +1,16 @@
+.base::-webkit-scrollbar-track{
+    color: var(--color-guinda);
+}
+.base::-webkit-scrollbar-corner{
+    display: none
+}
+.base::-webkit-scrollbar{
+  -webkit-appearance: none;
+  background-color: var(--outer);
+  width: 18px;
+}
+.base::-webkit-scrollbar-thumb{
+  background-color: var(--border);
+  border: 6px solid var(--outer);
+  border-radius: 100px;
+}

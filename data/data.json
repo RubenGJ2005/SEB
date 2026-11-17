@@ -1,0 +1,1149 @@
+[
+	{
+		"titulo": "UN ASUNTO PENDIENTE",
+		"autores": [
+			"JHON KATZENBACH"
+		],
+		"editorial": "SANTILLANA",
+		"anio": 2010,
+		"generos": [
+			"SUSPENSO"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "¿AMAR O DEPENDER?",
+		"autores": [
+			"WALTER RISO"
+		],
+		"editorial": "OCEANO",
+		"anio": 2012,
+		"generos": [
+			"FILOSOFÍA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "¿ES AMOR O ES ADICCIÓN?",
+		"autores": [
+			"BRENDA SCHAEFFER"
+		],
+		"editorial": "PATRIA",
+		"anio": 2000,
+		"generos": [
+			"SUPERACIÓN PERSONAL"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "33 RAZONES PARA VOLVER A VERTE",
+		"autores": [
+			"ALICE KELLEN"
+		],
+		"editorial": "DIVERSIDAD GRAFICA",
+		"anio": 2016,
+		"generos": [
+			"LITERATURA UNIVERSAL"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ABREME TU CORAZÖN",
+		"autores": [
+			"JOSË MARÍA CASILLAS",
+			"MOISÉS CASILLAS DÍAZ"
+		],
+		"editorial": "TOMO S.A.",
+		"anio": 2000,
+		"generos": [
+			"POESÍA",
+			"LIRICA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ABRIL ROJO",
+		"autores": [
+			"SANTIAGO RONCAGLIOLO"
+		],
+		"editorial": "EDICIONES SANTILLANA",
+		"anio": 2006,
+		"generos": [
+			"NOVELA",
+			"FICCIÓN"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ACÉPTESE A SÍ MISMO CON AMOR Y CONFIANZA",
+		"autores": [
+			"JOHN M. SCOTT"
+		],
+		"editorial": "PANORAMA EDITORIAL S.A.",
+		"anio": 2001,
+		"generos": [
+			"PSICOLOGÍA"
+		],
+		"cantidad": 2
+	},
+	{
+		"titulo": "ACOLMIZTLI UN POEMA PREHISÁNICO",
+		"autores": [
+			"ARTURO CARRASCO BRETÓN"
+		],
+		"editorial": "PLAZA Y VALDÉS EDITORES",
+		"anio": 1998,
+		"generos": [
+			"LIRICO",
+			"POESÍA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "AFRODITA",
+		"autores": [
+			"ISABEL ALLENDE"
+		],
+		"editorial": "DEBOLSILLO",
+		"anio": 2003,
+		"generos": [
+			"LITERATURA LATINOAMERICANA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "AGUA QUEMADA",
+		"autores": [
+			"CARLOS FUENTES"
+		],
+		"editorial": "EDICIONES SANTILLANA",
+		"anio": 2008,
+		"generos": [
+			"CUENTO"
+		],
+		"cantidad": 2
+	},
+	{
+		"titulo": "AGUAMIEL",
+		"autores": [
+			"TERESA VALENZUELA"
+		],
+		"editorial": "INSTITUTO POLITÉCNICO NACIONAL",
+		"anio": 2000,
+		"generos": [
+			"TEATRO"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ALAS DE LIBERTAD",
+		"autores": [
+			"CESAR QUIROZ"
+		],
+		"editorial": "PORRUA",
+		"anio": 2016,
+		"generos": [
+			"LITERATURA LATINOAMERICANA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ALEJANDRO EL CONQUISTADOR DE UN IMPERIO",
+		"autores": [
+			"GISBERT HAEFS"
+		],
+		"editorial": "PLANETA",
+		"anio": 1994,
+		"generos": [
+			"HISTORIA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ALICIA A TRAVÉS DEL ESPEJO",
+		"autores": [
+			"LEWIS CARROLL"
+		],
+		"editorial": "TOMO S.A.",
+		"anio": 2002,
+		"generos": [
+			"NOVELA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ALICIA EN EL PAIS DE LAS MARAVILLAS",
+		"autores": [
+			"LEWS CARROLL"
+		],
+		"editorial": "EDITORIAL TOMO",
+		"anio": 2006,
+		"generos": [
+			"FANTASÍA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "AMADÍS DE GAULA",
+		"autores": [
+			"GARCI RODRIGUEZ DE MONTALVO"
+		],
+		"editorial": "PORRÜA",
+		"anio": 1975,
+		"generos": [
+			"NOVELA",
+			"FICCIÓN"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "AMANTES DE SANGRE",
+		"autores": [
+			"RAMON OBON"
+		],
+		"editorial": "EDICIONES B",
+		"anio": 2009,
+		"generos": [
+			"TERROR"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "AMARÁS A DIOS SOBRE TODAS LAS COSAS",
+		"autores": [
+			"ALEJANDRO HERNÁNDEZ"
+		],
+		"editorial": "TUSQUERS EDITORES MEXICO",
+		"anio": 2013,
+		"generos": [
+			"NOVELA",
+			"NARRATIVA"
+		],
+		"cantidad": 2
+	},
+	{
+		"titulo": "AMOR PERDIDO",
+		"autores": [
+			"CARLOS MONSIVÁIS"
+		],
+		"editorial": "ERA",
+		"anio": 2001,
+		"generos": [
+			"ENSAYO"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "AMOR QUE CRECE TORCIDO",
+		"autores": [
+			"LUIS TOVAR"
+		],
+		"editorial": "LABERINTO",
+		"anio": 2000,
+		"generos": [
+			"ARTE"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "AMOR QUE CRECE TORCIDO",
+		"autores": [
+			"LUIS TOVAR"
+		],
+		"editorial": "UAM",
+		"anio": 2000,
+		"generos": [
+			"ARTE"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ANA KARENINA",
+		"autores": [
+			"LEV TOLSTOI"
+		],
+		"editorial": "COLECCIÓN MILENIO",
+		"anio": 1999,
+		"generos": [
+			"LITERATURA UNIVERSAL"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ANA KARENINA VOLUMEN II",
+		"autores": [
+			"LEV TOLSTOI"
+		],
+		"editorial": "COLECCIÓN MILENIO",
+		"anio": 1999,
+		"generos": [
+			"LITERATURA UNIVERSAL"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ANÁLISIS DE CURRICULO",
+		"autores": [
+			"G. POSNER"
+		],
+		"editorial": "MC GRAW HILL",
+		"anio": 2005,
+		"generos": [
+			"ENSAYO"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ANDROMACA",
+		"autores": [
+			"JEAN RACINE"
+		],
+		"editorial": "LETRAS UNIVERSALES",
+		"anio": 1996,
+		"generos": [
+			"LITERATURA UNIVERSAL"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ANDROMACA FEDRA",
+		"autores": [
+			"JEAN RACINE"
+		],
+		"editorial": "REI MEXICO",
+		"anio": 1991,
+		"generos": [
+			"LITERATURA UNIVERSAL"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ANGELES Y DEMONIOS",
+		"autores": [
+			"DAN BROWN"
+		],
+		"editorial": "URANO S.A.",
+		"anio": 2004,
+		"generos": [
+			"NOVELA",
+			"TERROR"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ANGELES Y DEMONIOS",
+		"autores": [
+			"DAN ROWN"
+		],
+		"editorial": "COZUGA",
+		"anio": 2013,
+		"generos": [
+			"SUSPENSO"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ANGELES Y DEMONIOS",
+		"autores": [
+			"DAN BRAWN"
+		],
+		"editorial": "UMBRIEL",
+		"anio": 2000,
+		"generos": [
+			"SUSPENSO"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ANGELES Y DEMONIOS",
+		"autores": [
+			"DAN BRAWN"
+		],
+		"editorial": "EAN",
+		"anio": 1985,
+		"generos": [
+			"SUSPENSO"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ANIBAL",
+		"autores": [
+			"DAVID ANTHONY DURHAM"
+		],
+		"editorial": "EDICIONES B",
+		"anio": 2006,
+		"generos": [
+			"NOVELA",
+			"HISTORIA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ANTES DEL FIN",
+		"autores": [
+			"ERNESTO SABATO"
+		],
+		"editorial": "PLANETA",
+		"anio": 1999,
+		"generos": [
+			"LITERATURA LATINOAMERICANA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ANTOLOGÍA DE LA LITERATURA FANTÁSTICA",
+		"autores": [
+			"BORGES",
+			"BIOY CASARES",
+			"OCAMPO"
+		],
+		"editorial": "SUDAMERICANA S.A.",
+		"anio": 1999,
+		"generos": [
+			"FANTASÍA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ANTOLOGIA DE CUENTOS MEXICANOS DEL SIGLO XIX",
+		"autores": [
+			"JAIME ERASTO CORTES"
+		],
+		"editorial": "ATENEO MEXICO",
+		"anio": 1978,
+		"generos": [
+			"LITERATURA LATINOAMERICANA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ANTOLOGÍA DE LA SUPERACIÓN PERSONAL",
+		"autores": [
+			"JUAN ANTONIO RAZO"
+		],
+		"editorial": "DIANA",
+		"anio": 2000,
+		"generos": [
+			"SUPERACIÓN PERSONAL"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ANTOLOGÍA DE POESÍA HISPANOAMERICANA",
+		"autores": [
+			"ARMIDA PÉREZ GARRIDO",
+			"LAURA ALVARADO FIGUEROA",
+			"TERESA BAÑOS HERNÁNDEZ"
+		],
+		"editorial": "INSTITUTO POLITÉCNICO NACIONAL",
+		"anio": 2000,
+		"generos": [
+			"LITERARIO",
+			"POESIA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ANTOLOGÍA DE POESÍAS POPULARES",
+		"autores": [
+			"MANUEL IBAÑEZ G."
+		],
+		"editorial": "DIANA",
+		"anio": 2001,
+		"generos": [
+			"POESÍA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ANTOLOGIA TEATRAL",
+		"autores": [
+			"ARTURO AMARO"
+		],
+		"editorial": "TABLADO IBEROAMERICANO",
+		"anio": 2001,
+		"generos": [
+			"LITERATURA LATINOAMERICANA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ANTONIO Y CLEOPATRA",
+		"autores": [
+			"WILLIAM SHAKESPEARE"
+		],
+		"editorial": "EDIMAT LIBROS",
+		"anio": 2000,
+		"generos": [
+			"LITERATURA UNIVERSAL"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "APRENDA A DECLAMAR SIN MAESTRO",
+		"autores": [
+			"FEDERICO GARCIA LORCA"
+		],
+		"editorial": "EDICIONES LEYENDA",
+		"anio": 2006,
+		"generos": [
+			"POESÍA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "APRENDER A VOLAR",
+		"autores": [
+			"ALFONSO LARA CASTILLA"
+		],
+		"editorial": "DIANA",
+		"anio": 1997,
+		"generos": [
+			"LITERATURA LATINOAMERICANA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "APRENDIZAJE ACELERADO",
+		"autores": [
+			"LINDA KASUGA"
+		],
+		"editorial": "EDITORIAL TOMO",
+		"anio": 1999,
+		"generos": [
+			"FILOSOFÍA"
+		],
+		"cantidad": 2
+	},
+	{
+		"titulo": "APRENDIZAJE INTELIGENTE",
+		"autores": [
+			"MONICA TROTTER"
+		],
+		"editorial": "ALFAOMEGA",
+		"anio": 2002,
+		"generos": [
+			"FILOSOFÍA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ARCEVAL Y LOS INGLESES",
+		"autores": [
+			"SALVADOER MADARIAGA"
+		],
+		"editorial": "ESPASA - CALPE",
+		"anio": 1973,
+		"generos": [
+			"LITERATURA UNIVERSAL"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ARIEL LIBERALISMO Y JACOBISMO",
+		"autores": [
+			"RUBEN DARIO",
+			"BOLIVAR",
+			"MONTALVO"
+		],
+		"editorial": "PORRUA",
+		"anio": 1997,
+		"generos": [
+			"LITERATURA LATINOAMERICANA"
+		],
+		"cantidad": 2
+	},
+	{
+		"titulo": "ARISTOTELES Y DANTE DESCUBREN LOS SECRETOS DEL UNIVERSO",
+		"autores": [
+			"BENJAMIN ALIRE SAENZ"
+		],
+		"editorial": "PLANETA",
+		"anio": 2015,
+		"generos": [
+			"LITERATURA UNIVERSAL"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ARQUIMEDES",
+		"autores": [
+			"JOSE BABINI"
+		],
+		"editorial": "ESPASA",
+		"anio": 1943,
+		"generos": [
+			"HISTORIA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ARTE CELTA",
+		"autores": [
+			"J.ROMILLY ALLEN"
+		],
+		"editorial": "EDIMATLIBROS.S.A:",
+		"anio": 2002,
+		"generos": [
+			"HISTORIA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ASESINATO EN EL ORIENT EXPRESS",
+		"autores": [
+			"AGATHA CHRISTIE"
+		],
+		"editorial": "PLANETA",
+		"anio": 2021,
+		"generos": [
+			"SUSPENSO"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ASI HABLABA ZARATUSTRA",
+		"autores": [
+			"FRIEDRICH NIETZSCHE"
+		],
+		"editorial": "LEYENDA",
+		"anio": 2012,
+		"generos": [
+			"FILOSOFÍA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ASI HABLABA ZARATUSTRA",
+		"autores": [
+			"FEDERICO NIETZSCHE"
+		],
+		"editorial": "EDITORES MEXICANOS UNIDOS",
+		"anio": 2002,
+		"generos": [
+			"FILOSOFÍA"
+		],
+		"cantidad": 2
+	},
+	{
+		"titulo": "ATRAPADO EN LA ESCUELA",
+		"autores": [
+			"MONICA LAVIN"
+		],
+		"editorial": "SELECTOR",
+		"anio": 1990,
+		"generos": [
+			"LITERATURA LATINOAMERICANA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "ATRAPADO EN LA ESCUELA",
+		"autores": [
+			"JOSE AGUSTIN",
+			"RAFAEL RAMIREZ"
+		],
+		"editorial": "FERNANDEZ",
+		"anio": 2001,
+		"generos": [
+			"LITERATURA LATINOAMERICANA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "AURA",
+		"autores": [
+			"CARLOS FUENTES"
+		],
+		"editorial": "ERA",
+		"anio": 2000,
+		"generos": [
+			"TERROR"
+		],
+		"cantidad": 3
+	},
+	{
+		"titulo": "AUTOESTIMA PARA MUJERES",
+		"autores": [
+			"DORIS BERSING"
+		],
+		"editorial": "ALFAOMEGA",
+		"anio": 2000,
+		"generos": [
+			"FILOSOFÍA"
+		],
+		"cantidad": 2
+	},
+	{
+		"titulo": "AVENTURAS DE TRES RUSOS Y TRES INGLESES EN EL AFRICA AUSTRAL",
+		"autores": [
+			"JULIO VERNE"
+		],
+		"editorial": "COFAS",
+		"anio": 2001,
+		"generos": [
+			"LITERATURA UNIVERSAL"
+		],
+		"cantidad": 2
+	},
+	{
+		"titulo": "AZUL, EL SALMO DE LA PLUMA, CANTOS DE VIDA Y ESPERANZA",
+		"autores": [
+			"RUBEN DARIO"
+		],
+		"editorial": "PORRUA",
+		"anio": 1990,
+		"generos": [
+			"POESÍA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "DEL AMOR Y OTROS DEMONIOS",
+		"autores": [
+			"GABRIEL GARCIA MARQUEZ"
+		],
+		"editorial": "DIANA",
+		"anio": 2005,
+		"generos": [
+			"LITERATURA LATINOAMERICANA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "DIARIO DE ANA FRANK",
+		"autores": [
+			"ANA FRANK"
+		],
+		"editorial": "EDITORES MEXICANOS UNIDOS",
+		"anio": 2002,
+		"generos": [
+			"HISTORIA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EL ABC DE LOS MAPAS MENTALES",
+		"autores": [
+			"VICTOR LUIS CERVANTES"
+		],
+		"editorial": "NUEVA EDICION",
+		"anio": 2004,
+		"generos": [
+			"ARTE"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EL ALEPH",
+		"autores": [
+			"JORGE LUIS BORGES"
+		],
+		"editorial": "MILLENIUM",
+		"anio": 2008,
+		"generos": [
+			"LITERATURA LATINOAMERICANA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EL ALQUIMISTA",
+		"autores": [
+			"PAULO COELHO"
+		],
+		"editorial": "DAVINNI S.A.",
+		"anio": 2012,
+		"generos": [
+			"LITERATURA LATINOAMERICANA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EL ALQUIMISTA",
+		"autores": [
+			"PAULO COELHO"
+		],
+		"editorial": "GRIJALBO",
+		"anio": 2007,
+		"generos": [
+			"NOVELA",
+			"NARRATIVA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EL AMANTE",
+		"autores": [
+			"MARQUERITE DURAS"
+		],
+		"editorial": "TUSQUERS EDITORES",
+		"anio": 1989,
+		"generos": [
+			"NOVELA",
+			"AUTOBIOGRÁFICA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EL AMIGO MANSO",
+		"autores": [
+			"BENITO PEREZ GALDOS"
+		],
+		"editorial": "PORRUA",
+		"anio": 1982,
+		"generos": [
+			"LITERATURA UNIVERSAL"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EL AMOR",
+		"autores": [
+			"MARGUERITE DURAS"
+		],
+		"editorial": "TUQUETS",
+		"anio": 1990,
+		"generos": [
+			"LITERATURA UNIVERSAL"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EL AMOR EN LOS TIEMPOS DEL CÓLERA",
+		"autores": [
+			"GABRIEL GARCÍA MÁRQUEZ"
+		],
+		"editorial": "DIANA",
+		"anio": 2001,
+		"generos": [
+			"NOVELA",
+			"FICCIÓN"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EL AMOR LA EXPERIENCIA MAS IMPORTANTE EN LA VIDA",
+		"autores": [
+			"LEO BUSCAGLIA"
+		],
+		"editorial": "DIANA",
+		"anio": 1987,
+		"generos": [
+			"FILOSOFÍA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EL ANGEL SIN CABEZA",
+		"autores": [
+			"VICKI BAUM"
+		],
+		"editorial": "BRUGUERA",
+		"anio": 1968,
+		"generos": [
+			"LITERATURA UNIVERSAL"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EL ANILLO DE TOLKIEN",
+		"autores": [
+			"DAVID DAY"
+		],
+		"editorial": "MINOTAURO",
+		"anio": 1999,
+		"generos": [
+			"FANTASÍA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EL ANTICRISTO",
+		"autores": [
+			"FRIEDRICH NIETZSCHE"
+		],
+		"editorial": "DEBATE",
+		"anio": 1998,
+		"generos": [
+			"FILOSOFÍA"
+		],
+		"cantidad": 2
+	},
+	{
+		"titulo": "EL ANTICRISTO",
+		"autores": [
+			"FRIEDRICH NIETZSCHE"
+		],
+		"editorial": "EDITORES MEXICANOS UNIDOS",
+		"anio": 2019,
+		"generos": [
+			"FILOSOFÍA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EL ANTICRISTO - MALDICION SOBRE EL CRISTIANISMO",
+		"autores": [
+			"FRIEDRICH NIETSCHE"
+		],
+		"editorial": "DEBATE",
+		"anio": 1998,
+		"generos": [
+			"FILOSOFÍA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EL ARABE",
+		"autores": [
+			"E.M. HULL"
+		],
+		"editorial": "EPOCA",
+		"anio": 1919,
+		"generos": [
+			"LITERATURA UNIVERSAL"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EL ARCA DE NOE",
+		"autores": [
+			"EMILIO CARBALLIDO"
+		],
+		"editorial": "EDITORES MEXICANOS UNIDOS",
+		"anio": 1994,
+		"generos": [
+			"LITERATURA LATINOAMERICANA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EL ARTE DE CONVIVIR Y LA CORTESÏA SOCIAL",
+		"autores": [
+			"GABY VARGAS"
+		],
+		"editorial": "AGUILAR",
+		"anio": 2005,
+		"generos": [
+			"RELACIONES HUMANAS"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EL ARTE DE ENCANTAR",
+		"autores": [
+			"MIGUEL ANGEL TENORIO"
+		],
+		"editorial": "IPN",
+		"anio": 2009,
+		"generos": [
+			"ARTE"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EL ARTE DE HABLAR EN PUBLICO",
+		"autores": [
+			"CARLOS A. LOPRETE"
+		],
+		"editorial": "PUBLIMEX",
+		"anio": 1985,
+		"generos": [
+			"ARTE"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EL ARTE DE LA GUERRA",
+		"autores": [
+			"NICOLAS MAQUIAVELO"
+		],
+		"editorial": "FONTAMARA",
+		"anio": 2012,
+		"generos": [
+			"FILOSOFÍA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EL ARTE DE LA GUERRA",
+		"autores": [
+			"SUN TZU"
+		],
+		"editorial": "EDITORES MEXICANOS UNIDOS S.A.",
+		"anio": 2010,
+		"generos": [
+			"TRATADO O MANUAL MILITAR"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EL ARTE DE SER PERSONA",
+		"autores": [
+			"LEO BUSCAGLIA"
+		],
+		"editorial": "DIANA",
+		"anio": 1987,
+		"generos": [
+			"FILOSOFÍA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EL ARTE DEL SACRIFICIO EN AJEDREZ",
+		"autores": [
+			"RUDOLF SPIELMANN"
+		],
+		"editorial": "MARTINEZ ROCA",
+		"anio": 1975,
+		"generos": [
+			"ARTE"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EL ARTE Y LOS MONSTRUOS",
+		"autores": [
+			"FERNANDO LEAL"
+		],
+		"editorial": "IPN",
+		"anio": 1990,
+		"generos": [
+			"ARTE"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "EN LA ARDIENTE OSCURIDAD, UN SOÑADOR PARA UN PUEBLO",
+		"autores": [
+			"ANTONIO BUERO VALLEJO"
+		],
+		"editorial": "ESPASA - CALPE",
+		"anio": 1978,
+		"generos": [
+			"LITERATURA UNIVERSAL"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "LA AGENDA PENDIENTE",
+		"autores": [
+			"RAFAEL RODRÍGUEZ CASTAÑEDA"
+		],
+		"editorial": "PLANETA",
+		"anio": 2013,
+		"generos": [
+			"ENSAYO"
+		],
+		"cantidad": 2
+	},
+	{
+		"titulo": "LA ALARGADA SOMBRA DEL AMOR",
+		"autores": [
+			"MATHIAS MALZIEU"
+		],
+		"editorial": "MONDADORI",
+		"anio": 2010,
+		"generos": [
+			"FANTASÍA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "LAS AVENTURAS DE TOM SAWYER",
+		"autores": [
+			"MARK TWAIN"
+		],
+		"editorial": "LEYENDA",
+		"anio": 2007,
+		"generos": [
+			"LITERATURA UNIVERSAL"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "LAS AVENTURAS DE TOM SAWYER",
+		"autores": [
+			"MARK TWAIN"
+		],
+		"editorial": "GRUPO EDITORIAL TOMO",
+		"anio": 2005,
+		"generos": [
+			"LITERATURA UNIVERSAL"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "LAS AVENTURAS DE TOM SAWYER",
+		"autores": [
+			"MARK TWAIN"
+		],
+		"editorial": "COFAS",
+		"anio": 2001,
+		"generos": [
+			"LITERATURA UNIVERSAL"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "LECTURAS UNIVERSITARIAS ANTOLOGIA",
+		"autores": [
+			"DIVERSOS"
+		],
+		"editorial": "UNAM",
+		"anio": 1990,
+		"generos": [
+			"LITERATURA LATINOAMERICANA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "LOS AMIGOS DE COLEGIO EDMONDO DE AMICIS",
+		"autores": [
+			"EDMONDO DE AMICIS"
+		],
+		"editorial": "BARCELONA",
+		"anio": 1980,
+		"generos": [
+			"LITERATURA UNIVERSAL"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "LOS ANTIGUOS MEXICANOS A TRAVES DE SUS CRONICAS Y SUS CANTERAS",
+		"autores": [
+			"MIGUEL LEON-PORTILLA"
+		],
+		"editorial": "FONDO DE CULTURA ECONOMICA",
+		"anio": 2010,
+		"generos": [
+			"HISTORIA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "LOS AÑOS CON LAURA DIAZ",
+		"autores": [
+			"CARLOS FUENTES"
+		],
+		"editorial": "SANTILLANA",
+		"anio": 1999,
+		"generos": [
+			"LITERATURA LATINOAMERICANA"
+		],
+		"cantidad": 1
+	},
+	{
+		"titulo": "LOS DE ABAJO",
+		"autores": [
+			"MARIANO AZUELA"
+		],
+		"editorial": "FONDO DE CULTURA ECONOMICA",
+		"anio": 1990,
+		"generos": [
+			"LITERATURA LATINOAMERICANA"
+		],
+		"cantidad": 1
+	}
+]

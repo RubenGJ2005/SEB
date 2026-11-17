@@ -25,20 +25,16 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       <body className="min-h-full flex flex-col" >
         <header className="flex items-center justify-between px-6 py-3 text-shadow-black">
           <div className="flex items-center gap-4">
-            <Image src="/logo-ipn.png" className="h-18 w-auto"
-            width={100}
-            height={76}
-            alt="logo poli"
-            />
-            <Image src="/icon-upiicsa.png" className="h-18 w-auto"
+            
+            <Image src="/icon-upiicsa.png" className="h-15 w-auto"
             width={100}
             height={76}
             alt="logo upiicsa"
             />
           </div>
-            <h1 className="text-4xl font-medium"> <center> Servicios bibliotecarios</center> </h1>
+            <h1 className="text-3xl font-light"> <center> Servicios bibliotecarios</center> </h1>
             <div className="h-12 w-auto">
-              <Image src="/logo-biblioteca.PNG"  className="h-18 w-auto"
+              <Image src="/logo-biblioteca.PNG"  className="h-13 w-auto"
                   width={100}
                   height={76}
                   alt="logo biblioteca"
