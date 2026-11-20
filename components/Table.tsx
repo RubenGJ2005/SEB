@@ -12,7 +12,7 @@ type BookRow = {
 
 export default function BookTable({ data }: { data: BookRow[] }) {
   return (
-    <Paper sx={{ height: '70vh', width: '100%', overflow: 'scroll', marginTop:'20px', border: '2px solid rgba(104, 36, 68, 0.5)',borderRadius:'0px' }} className={styles.base}>
+    <Paper sx={{ height: '88vh', width: '75vw', overflow: 'scroll', marginTop:'0px', border: '2px solid rgba(104, 36, 68, 0.5)',borderRadius:'0px' }} className={styles.base}>
       <Table className="overflow-scroll " stickyHeader>
         <TableHead>
           <TableRow>

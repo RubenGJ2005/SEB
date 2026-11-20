@@ -8,6 +8,6 @@ export const metadata ={
 
 export default function AboutPage(){
     return(
-    <div className= "text-5xl">xdxdxd</div>
+    <div className= "text-5xl"></div>
     );
 }
